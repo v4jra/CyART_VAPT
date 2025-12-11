@@ -96,8 +96,8 @@ All activities are performed on **authorized systems only**.
 
 ## About
 
-**Position:** VAPT_Intern
-**Program:** CyArt-VAPT 
+- **Position:** VAPT_Intern
+- **Program:** CyArt-VAPT 
 
 ---
 
