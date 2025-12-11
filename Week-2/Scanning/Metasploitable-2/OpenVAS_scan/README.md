@@ -30,7 +30,6 @@ The goal of this scan is to **prioritize risk** and provide **actionable remedia
 
 ### Target Machines  
 - **Metasploitable 2**
-- **DVWA (Docker – Port 9988)**
 
 ### Feed Update Command (Used if required)
 
