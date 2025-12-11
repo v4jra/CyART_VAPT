@@ -31,7 +31,7 @@ password: msfadmin
 
 
 ### **Metasploitable2 screenshot:**
-- ![Step 1](/ip_a.png)
+- ![Step 1](CyART_VAPT/Week-2/Setup/ip_a.png)
 
 ---
 
@@ -54,7 +54,7 @@ sudo docker run --name dvwa -p 9988:80 vulnerables/web-dvwa
 - Set security level to "Low"
 
 ### **screenshots:**
-- ![Step 2](/home.png)
+- ![Step 2](CyART_VAPT/Week-2/Setup/home.png)
 
 ---
 
@@ -91,8 +91,8 @@ sudo gvm-setup
 - Export PDF results
 
 ### **screenshots:**
-- ![Step 3](/home_opeb.png)
-- ![Step 2](/success.png)
+- ![Step 3](CyART_VAPT/Week-2/Setup/home_opeb.png)
+- ![Step 2](CyART_VAPT/Week-2/Setup/success.png)
 
 ---
 
