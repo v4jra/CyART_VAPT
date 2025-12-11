@@ -31,7 +31,7 @@ password: msfadmin
 
 
 ### **Metasploitable2 screenshot:**
-- ![Step 1](ip_a.png)
+![Step 1](ip_a.png)
 
 ---
 
@@ -54,7 +54,7 @@ sudo docker run --name dvwa -p 9988:80 vulnerables/web-dvwa
 - Set security level to "Low"
 
 ### **screenshots:**
-- ![Step 2](home.png)
+![Step 2](home.png)
 
 ---
 
@@ -91,8 +91,8 @@ sudo gvm-setup
 - Export PDF results
 
 ### **screenshots:**
-- ![Step 3](home_open.png)
-- ![Step 2](success.png)
+![Step 3](home_open.png)
+![Step 4](success.png)
 
 ---
 
