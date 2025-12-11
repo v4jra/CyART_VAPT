@@ -91,7 +91,7 @@ sudo gvm-setup
 - Export PDF results
 
 ### **screenshots:**
-- ![Step 3](home_opeb.png)
+- ![Step 3](home_open.png)
 - ![Step 2](success.png)
 
 ---
