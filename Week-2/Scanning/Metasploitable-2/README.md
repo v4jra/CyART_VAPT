@@ -33,8 +33,8 @@ sudo nmap -p- -sV -sC --min-rate=1000 -oA ~/VAPT_Project/evidence/scan-all-ports
 ![Step 2](port_scan.png)
 ![Step 3](Nmap01.png)
 ![Step 4](Nmap02.png)
-![Step 5](nmap03.png)
-![Step 6](nmap04.png)
+![Step 5](Nmap03.png)
+![Step 6](Nmap04.png)
 
 ---
 
