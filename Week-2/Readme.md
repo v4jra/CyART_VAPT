@@ -16,10 +16,15 @@ This repository is designed to look clean, professional, and ready for academic 
 
 ```
 Week-2/
- ├── Documentation/        → Notes, screenshots, workflows
- ├── Scan-Results/         → OpenVAS, Nmap raw data
- ├── Final-Report/         → PTES Technical + Executive Reports
- └── README.md             → Week-specific summary
+ ├── README.md              → Week summary
+ ├── setup/                 → DVWA, Metasploitable2, OpenVAS, Burp setup
+ │    └── README.md
+ ├── scanning/              → Nmap, Nikto, Wappalyzer, OpenVAS results
+ │    └── README.md
+ ├── exploit/               → DVWA + Metasploitable exploitation
+ │    └── README.md
+ └── report/                → 100-word email, 200-word PTES report, non-technical summary
+      └── README.md
 ```
 
 ---
