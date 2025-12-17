@@ -17,7 +17,6 @@ This repository contains a full-cycle Vulnerability Assessment and Penetration T
 ### Excluded
 - Denial of Service (DoS)
 - Social engineering attacks
-- Physical security testing
 
 ---
 
@@ -26,7 +25,7 @@ This repository contains a full-cycle Vulnerability Assessment and Penetration T
 | Role | Details |
 |-----|--------|
 | Attacker | Kali Linux |
-| Targets | DVWA, Metasploitable2, DC-0:1 |
+| Targets | DVWA, Metasploitable2, DC-01 |
 | Network | Isolated virtual lab |
 
 ---
@@ -69,3 +68,9 @@ All testing was conducted on intentionally vulnerable systems in an isolated env
 
 ## About 
 **ROLE:** VAPT Analyst / Security Intern
+
+### Reffrences
+**Vulnhub lab:** https://www.vulnhub.com/entry/dc-1,292/
+**Metasploitabe 2:** https://www.vulnhub.com/entry/metasploitable-2,29/
+**Post exploit:** https://gtfobins.github.io/
+**exploit DB:** https://www.exploit-db.com/
