@@ -7,7 +7,8 @@ Each week contains structured theoretical notes, practical labs, screenshots, re
 ```
 ## Repository Structure
 CyART_VAPT/
- ├── Week-2/ 
+ ├── Week-2/
+ ├── Week-3/
 ```
 ---
 
@@ -73,6 +74,7 @@ The following security tools are used across the labs:
 | Week   | Topics Covered | Status |
 |--------|----------------|--------|
 | Week 2 | Vulnerability Scanning Techniques | Completed |
+| Week 3 | VAPT-Full-Cycle-Project | Completed |
 
 ---
 
